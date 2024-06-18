@@ -1,3 +1,3 @@
 # Mars
  A new line of code 
- Yet another line odf code
+ Yet another line of code
